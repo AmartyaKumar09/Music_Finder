@@ -1,0 +1,39 @@
+# -----------------------------
+# Security & Environment Variables
+# -----------------------------
+.env
+
+# -----------------------------
+# Python Basics
+# -----------------------------
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+venv/
+env/
+.venv/
+
+# -----------------------------
+# Project Specific (Temporary Files)
+# -----------------------------
+# Ignore the temporary voice files created by the bot
+voice_*.ogg
+voice_*.wav
+
+# -----------------------------
+# OS & IDE Junk
+# -----------------------------
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+
+# VS Code / PyCharm settings (optional but recommended)
+.vscode/
+.idea/

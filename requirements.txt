@@ -1,0 +1,9 @@
+pyTelegramBotAPI
+requests
+python-dotenv
+rapidfuzz
+SpeechRecognition
+pydub
+librosa
+soundfile
+numpy
