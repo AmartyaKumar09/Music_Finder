@@ -58,7 +58,7 @@ You need to set up your environment variables to keep your API keys secure.
 
 ## 🧪 Test File
 
-* **I have added a test file within my codebase to check for the functionality and debugging purposesl, you dont need to mandatorily run this file for the functionality of your code
+* **I have added a test file within my codebase to check for the functionality and debugging purposesl, you dont need to mandatorily run this file for the functionality of your code**
 
 ## 🚀 Usage
 
