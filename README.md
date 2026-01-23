@@ -56,6 +56,10 @@ You need to set up your environment variables to keep your API keys secure.
 * **BOT_TOKEN:** Chat with [@BotFather](https://t.me/BotFather) on Telegram and create a new bot.
 * **GENIUS_API_KEY:** Sign up at [Genius API Clients](https://genius.com/api-clients), create a new API Client, and copy the **Client Access Token**.
 
+## 🧪 Test File
+
+* **I have added a test file within my codebase to check for the functionality and debugging purposesl, you dont need to mandatorily run this file for the functionality of your code
+
 ## 🚀 Usage
 
 1.  **Run the bot:**
